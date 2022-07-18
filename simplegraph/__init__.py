@@ -1,2 +1,4 @@
-import BasicFunctions
-import Graphs
+import simplegraph.BasicFunctions
+import simplegraph.Graphs
+import simplegraph.periodictb
+import simplegraph.mygraph
